@@ -1,0 +1,295 @@
+diff --git a/README.md b/README.md
+index db8b6c8..deb1170 100644
+--- a/README.md
++++ b/README.md
+@@ -412,7 +412,7 @@ Name | Website | Region
+ [Karat](/company-profiles/karat.md) | https://karat.com/ | Worldwide
+ [Kaufland e-commerce](/company-profiles/kaufland-e-commerce.md) | https://kaufland-ecommerce.com/ | Europe UTC-1 to UTC+2
+ [kea](/company-profiles/kea.md) | https://kea.ai | North and Latin America
+-[Keen IO](/company-profiles/keen-io.md) | https://keen.io/ |
++[Keen IO](/company-profiles/keen-io.md) | https://keen.io/ | USA
+ [Kentik](/company-profiles/kentik.md) | https://www.kentik.com/careers | USA, Europe, APAC
+ [Kestra](/company-profiles/kestra.md) | https://kestra.io/careers | France
+ [Khan Academy](/company-profiles/khan-academy.md) | https://www.khanacademy.org/ | USA
+diff --git a/company-profiles/annertech.md b/company-profiles/annertech.md
+index f31eb66..deeb2b2 100644
+--- a/company-profiles/annertech.md
++++ b/company-profiles/annertech.md
+@@ -12,6 +12,10 @@ Between 50-250 employees
+ 
+ They have Remote working positions worldwide all the time
+ 
++## Region
++
++Worldwide
++
+ ## Company technologies
+ 
+ PHP, Drupal, JavaScript, jQuery, Twig, Drupal Commerce, Platform.sh, Docker, Docksal, Apache, Solr, MySQL, MariaDB, Gitlab, Rest APIs
+diff --git a/company-profiles/chatgen.md b/company-profiles/chatgen.md
+index d6c2319..23d0c63 100644
+--- a/company-profiles/chatgen.md
++++ b/company-profiles/chatgen.md
+@@ -12,6 +12,10 @@ ChatGen is a Smart Conversational Sales and Marketing Chatbot platform that driv
+ 
+ Almost all of us are remote, distributed around Asia and USA.
+ 
++## Region
++
++Worldwide
++
+ ## Company technologies
+ 
+ JavaScript, AWS Lambda, Cloudwatch, Node.js, React.js, MongoDB, Django
+diff --git a/company-profiles/cloudlinux.md b/company-profiles/cloudlinux.md
+index 7de6b39..b2a995a 100644
+--- a/company-profiles/cloudlinux.md
++++ b/company-profiles/cloudlinux.md
+@@ -10,6 +10,10 @@ CloudLinux is the only commercially supported operating system (OS) optimized fo
+ Flexible Work Environment, as Fully Remote.
+ We don’t look at when you log in, log out or how much time you work. We trust you, it’s the only way remote can actually work.
+ 
++## Region
++
++USA
++
+ ## Company technologies
+ CloudLinux OS provides a modified kernel based on the OpenVZ kernel
+ 
+diff --git a/company-profiles/compose.md b/company-profiles/compose.md
+index 640b9e9..665c5fb 100644
+--- a/company-profiles/compose.md
++++ b/company-profiles/compose.md
+@@ -25,6 +25,10 @@ MongoDB, Redis, PostgreSQL, MySQL, Elasticsearch, ScyllaDB, RabbitMQ, etcd, Reth
+ Our highly distributed team is proof positive that the best talent isn’t found in a single zip code. 
+ From London to Johannesburg to Montreal, we’re everywhere you are.
+ 
++## Region
++
++Worldwide
++
+ ## How to apply
+ 
+ https://www.linkedin.com/company/composeio/jobs/
+diff --git a/company-profiles/coodesh.md b/company-profiles/coodesh.md
+index 51730e8..2e4f8a7 100644
+--- a/company-profiles/coodesh.md
++++ b/company-profiles/coodesh.md
+@@ -15,6 +15,9 @@ is one of the biggest differentials for success.
+ Work in the place that makes you happy, that inspires you daily and that helps you become the person you want to be. We were born with 100% 
+ remote teams and we always will be.
+ 
++## Region
++
++South America
+ 
+ ## Office locations
+ 
+diff --git a/company-profiles/dronedeploy.md b/company-profiles/dronedeploy.md
+index cc92455..f0701a4 100644
+--- a/company-profiles/dronedeploy.md
++++ b/company-profiles/dronedeploy.md
+@@ -14,6 +14,10 @@ Approximately 40+ employees split between our SF offices and many remote employe
+ Remote friendly! (We use Slack, GitHub, etc.)
+ You're expected to maintain a regular day-to-day schedule and be in the 'office' & responsive during your chosen work time.  That said, we offer lots of flexibility for adjusting your schedule based on personal/family needs. Some travel is required (typically 2 or 3 week-long trips a year).]
+ 
++## Region
++
++USA
++
+ ## Company technologies
+ 
+ JavaScript, TypeScript, Cordova, iOS, Android, Angular2, Python
+diff --git a/company-profiles/earthofdrones.md b/company-profiles/earthofdrones.md
+index 68a312a..fc81098 100644
+--- a/company-profiles/earthofdrones.md
++++ b/company-profiles/earthofdrones.md
+@@ -18,7 +18,9 @@ Remote friendly!
+ 
+ You're expected to maintain a regular day-to-day schedule and be in the 'office' & responsive during your chosen work time.  That said, we offer lots of flexibility for adjusting your schedule based on personal/family needs. 
+ 
++## Region
+ 
++USA
+ 
+ ## Office locations
+ 
+diff --git a/company-profiles/fetlife.md b/company-profiles/fetlife.md
+index cb4450e..cc5ea44 100644
+--- a/company-profiles/fetlife.md
++++ b/company-profiles/fetlife.md
+@@ -18,6 +18,9 @@ Between 11-50 employees
+ ## Remote status
+ Completely Remote
+ 
++## Region
++
++Worldwide
+ 
+ ## Company technologies
+ 
+diff --git a/company-profiles/ffw-agency.md b/company-profiles/ffw-agency.md
+index 5d5643d..4a366c6 100644
+--- a/company-profiles/ffw-agency.md
++++ b/company-profiles/ffw-agency.md
+@@ -12,6 +12,10 @@ Between 450-650 employees
+ 
+ They have Remote working positions worldwide all the time
+ 
++## Region
++
++Worldwide
++
+ ## Company technologies
+ 
+ PHP, Symfony, Drupal, JavaScript, jQuery, React, AWS, Azure, Docker, Apache, Solr, MySQL, MariaDB, Rest APIs
+diff --git a/company-profiles/fis-global.md b/company-profiles/fis-global.md
+index 78b1372..e09bf5e 100644
+--- a/company-profiles/fis-global.md
++++ b/company-profiles/fis-global.md
+@@ -12,6 +12,10 @@ FIS is a leader in technology and services that helps businesses and communities
+ 
+ 100% remote from COVID. 
+ 
++## Region
++
++Worldwide
++
+ ## Office locations
+ 
+ USA, UK, Asia
+diff --git a/company-profiles/fiverr.md b/company-profiles/fiverr.md
+index 24be8d6..3e88284 100644
+--- a/company-profiles/fiverr.md
++++ b/company-profiles/fiverr.md
+@@ -13,6 +13,10 @@ Fiverr is a global platform connecting businesses with on-demand freelancers in
+ Work in the place that makes you happy, that inspires you daily and that helps you become the person you want to be. We were born with 100% 
+ remote teams and we always will be.
+ 
++## Region
++
++Worldwide
++
+ ## Office locations
+ 
+ North America, Asia
+diff --git a/company-profiles/ipinfo.md b/company-profiles/ipinfo.md
+index 2fee69e..f58f3d0 100644
+--- a/company-profiles/ipinfo.md
++++ b/company-profiles/ipinfo.md
+@@ -12,6 +12,10 @@ Currently, we are a team of 13 people. [Meet our team](https://ipinfo.io/about).
+ 
+ We are fully distributed company with the team spread out across seven countries and several timezones. 
+ 
++## Region
++
++Worldwide
++
+ ## Company technologies
+ 
+ * Docker
+diff --git a/company-profiles/lets-encrypt.md b/company-profiles/lets-encrypt.md
+index c681e2f..ba730fb 100644
+--- a/company-profiles/lets-encrypt.md
++++ b/company-profiles/lets-encrypt.md
+@@ -4,6 +4,10 @@
+ 
+ Let’s Encrypt is a free, automated, and open certificate authority brought to you by the Internet Security Research Group (ISRG). ISRG is a California public benefit corporation, and is recognized by the IRS as a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code.
+ 
++## Region
++
++Worldwide
++
+ ## How to apply
+ 
+ [Let's Encrypt](https://letsencrypt.org/jobs/)
+diff --git a/company-profiles/loadsys.md b/company-profiles/loadsys.md
+index 98c9054..10a20d9 100644
+--- a/company-profiles/loadsys.md
++++ b/company-profiles/loadsys.md
+@@ -20,6 +20,10 @@ Our benefits include:
+ 
+ Our team is fully virtual with all members located in the United States.  As we formed in the Chicagoland area, we have more members located in the Midwest region, but also have one in Vegas and North Carolina.
+ 
++## Region
++
++USA
++
+ ## Company technologies
+ 
+ -   CakePHP (supporting v2.X and 3.X and upgrades from 1.3)
+diff --git a/company-profiles/metalab.md b/company-profiles/metalab.md
+index 46640d1..77d27f7 100644
+--- a/company-profiles/metalab.md
++++ b/company-profiles/metalab.md
+@@ -8,6 +8,10 @@ MetaLab is an interface design firm headquartered in Victoria, British Columbia
+ 
+ We hire based on talent, not time zone, so your schedule is up to you. As long as you respect the team and deliver great work, we don't care how, where, or when you get it done.
+ 
++## Region
++
++Worldwide
++
+ ## How to apply
+ [Metalab Careers](https://www.metalab.co/careers)
+ 
+diff --git a/company-profiles/oreilly-media.md b/company-profiles/oreilly-media.md
+index aacee9a..29615b8 100644
+--- a/company-profiles/oreilly-media.md
++++ b/company-profiles/oreilly-media.md
+@@ -10,6 +10,10 @@ At the heart of our business is a unique network of experts and innovators who s
+ 
+ O’Reilly Media has two main offices, in Boston and Sebastopol (San Francisco Bay Area), with a large portion of our employees working remotely.
+ 
++## Region
++
++Worldwide
++
+ ## Office locations
+ 
+ - Sebastopol, CA
+diff --git a/company-profiles/peachworks.md b/company-profiles/peachworks.md
+index dd19297..3af5911 100644
+--- a/company-profiles/peachworks.md
++++ b/company-profiles/peachworks.md
+@@ -12,6 +12,10 @@ There are about 11-50 employees and 17 of them are on [LinkedIn](https://www.lin
+ 
+ Fully Remote
+ 
++## Region
++
++USA
++
+ ## Company technologies
+ 
+ - Jira Software
+diff --git a/company-profiles/previousnext.md b/company-profiles/previousnext.md
+index 9325ed1..1d58420 100644
+--- a/company-profiles/previousnext.md
++++ b/company-profiles/previousnext.md
+@@ -6,6 +6,10 @@ Founded in 2009, PreviousNext is Australia’s most experienced company speciali
+ 
+ Our talented team has built and deployed feature-rich Drupal websites for a hundreds of high profile clients, including federal, state and local government organisations, major media companies, universities and enterprise customers. We've succeeded with these clients by focusing on being a team with heavyweight experience, driven by a focus on quality and innovation, delivered efficiently through a pragmatic Agile approach to project management and cutting-edge web development. We back our projects with enterprise-grade managed cloud hosting, support, maintenance and continuous improvement services.
+ 
++## Region
++
++Australia
++
+ ## How to apply
+ 
+ While our main clients and centralised teams tend to be in major Australian cities, we'll often consider remote working arrangements for the right people in regional Australia. We are only looking for candidates with Australian resident status at this time.
+diff --git a/company-profiles/softwaremill.md b/company-profiles/softwaremill.md
+index 2cd2fa1..ab6dfb4 100644
+--- a/company-profiles/softwaremill.md
++++ b/company-profiles/softwaremill.md
+@@ -14,6 +14,10 @@ We all work from our homes, co-working offices or sometimes even from Bieszczady
+ 
+ Polish language is *strictly* required, as internally we are a Polish speaking company
+ 
++## Region
++
++Europe
++
+ ## Company technologies
+ 
+ - Java
