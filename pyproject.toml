@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "janus-job-board"
+version = "0.0.0"
+description = "JANUS-powered job board."
+authors = ["Jaremy Hatler <hatler.jaremy@gmail.com>"]
+maintainers = ["Jaremy Hatler <hatler.jaremy@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/jhatler/janus-job-board"
+package-mode = false 
+
+[tool.poetry.urls]
+"Code" = "https://github.com/jhatler/janus-job-board"
+"Issue tracker" = "https://github.com/jhatler/janus-job-board/issues"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+
